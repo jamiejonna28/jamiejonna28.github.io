@@ -29,6 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   {
     width: 70px;
     height: 70px;
+    border: 5px solid;
     float: left;
     margin-right: 50px;
     margin-top: 50px;
