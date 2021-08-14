@@ -10,7 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <center><h3>Test 1</h3></center>
 <div class = "test">
-  <div class = "testin">Sample Text</div>
+  <div class = "testin"></div>
+  Sample Text
 </div>
 
 <style>
