@@ -35,6 +35,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <br/>
 
+<center><h2> Test 3</h2></center>
+Some text here
+
+<center><h2> Test 4</h2></center>
+Reach me here: 
+
 <style>
   .ediv
   {
