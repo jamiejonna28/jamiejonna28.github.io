@@ -17,6 +17,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </div>
 </div>
 
+<br></br>
+
+<div class = "test">
+  <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" class = "pic2">
+  <div class = "textdiv">
+    <h2 class = "title"> Title 1</h2>
+    <p class = "subtitle"> Subtitle 1 </p>
+  </div>
+</div>
+
 <style>
   .test
   {
@@ -33,9 +43,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     float: left;
     margin: 50px 0px;
   }
+  
+ .pic2
+ {
+    width: 100px;
+    height: 200px;
+    border: 5px solid;
+    float: left;
+    margin: 50px 0px;
+ }
   .textdiv
   {
-    background-color: red;
+    background-color: white;
     float: left;
     width: 300px;
     padding: 20px;
