@@ -32,6 +32,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <div class = "kdiv"> ABCDEF</div>
   <div class = "kdiv">ABCD</div>
 </center>
+
+<br/>
+
 <style>
   .ediv
   {
