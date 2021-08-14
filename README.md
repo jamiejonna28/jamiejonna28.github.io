@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </div>
 </div>
 
-<br>
+<br><br>
 
 <div class = "test">
   <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" class = "pic2">
