@@ -11,8 +11,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <center><h2>Test 1</h2></center>
 <div class = "test">
   <div class = "testin"></div>
-  <h2 class = "title"> Title 1</h2>
-  <p class = "subtitle"> Subtitle 1 </p>
+  <div class = "textdiv">
+    <h2 class = "title"> Title 1</h2>
+    <p class = "subtitle"> Subtitle 1 </p>
+  </div>
 </div>
 
 <style>
