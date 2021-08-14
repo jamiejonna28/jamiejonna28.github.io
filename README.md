@@ -28,10 +28,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     height: 70px;
     background-color: blue;
     float: left;
-    position: relative;
     margin-right: 50px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 30px;
   }
   .title
   {
