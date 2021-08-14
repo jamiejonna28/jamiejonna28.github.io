@@ -43,8 +43,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <style>
   .test
   {
-    background-color: red;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10%;
+    shadow: 5px 10px 10px #A9A9A9;
   }
 </style>
