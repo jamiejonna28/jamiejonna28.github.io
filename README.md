@@ -11,7 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <center><h2>Test 1</h2></center>
 <div class = "test">
   <div class = "testin"></div>
-  <h3 class = "title"> Title 1</h3>
+  <h2 class = "title"> Title 1</h2>
+  <h3 class = "subtitle"> Subtitle 1 </h3>
 </div>
 
 <style>
@@ -35,5 +36,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   .title
   {
     color: #159957;
+  }
+  .subtitle
+  {
+    color: #606c83;
   }
 </style>
