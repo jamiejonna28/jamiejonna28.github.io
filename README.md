@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div width=100px, height=100px, background-color="red">Does this work?</div>
 
 ```markdown
 Syntax highlighted code block
