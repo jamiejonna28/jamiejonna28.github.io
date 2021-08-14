@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<div width=100px, height=100px, background-color="red">Does this work?</div>
+<div class = "test">Does this work?</div>
 
 ```markdown
 Syntax highlighted code block
@@ -39,3 +39,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<style>
+  .test
+  {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+  }
+</style>
