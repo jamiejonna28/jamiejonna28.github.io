@@ -27,8 +27,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   }
   .pic
   {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 200px;
     border: 5px solid;
     float: left;
     margin: 50px 0px;
