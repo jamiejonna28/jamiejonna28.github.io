@@ -1,8 +1,8 @@
 ## Hi there!
 
-<center>
-![Hi there!](https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg)
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" />
+</p>
 
 You can use the [editor on GitHub](https://github.com/jamiejonna28/jamiejonna28.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
