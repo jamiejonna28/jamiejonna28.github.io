@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   .test
   {
     width: 100%;
-    height: 150px;
+    height: 200px;
     box-shadow: 0px 0px 10px #A9A9A9;
     float: right;
   }
@@ -28,7 +28,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     height: 70px;
     background-color: blue;
     float: left;
+    position: relative;
     margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
   }
   .title
   {
