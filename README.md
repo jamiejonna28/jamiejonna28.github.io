@@ -43,9 +43,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <style>
   .test
   {
-    width: 150px;
+    width: 100%;
     height: 150px;
     border-radius: 10%;
     box-shadow: 5px 10px 10px #A9A9A9;
+    float: right;
   }
 </style>
