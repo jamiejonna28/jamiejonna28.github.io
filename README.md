@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <center><h2>Test 1</h2></center>
 <div class = "test">
-  <div class = "testin"></div>
+  <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" class = "pic"></img> 
   <div class = "textdiv">
     <h2 class = "title"> Title 1</h2>
     <p class = "subtitle"> Subtitle 1 </p>
@@ -25,7 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     box-shadow: 0px 0px 10px #A9A9A9;
     float: right;
   }
-  .testin
+  .pic
   {
     width: 70px;
     height: 70px;
