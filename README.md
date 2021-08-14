@@ -37,7 +37,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   }
   .pic
   {
-    width: 100px;
+    width: 200px;
     height: 200px;
     border: 5px solid;
     float: left;
@@ -46,7 +46,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   
  .pic2
  {
-    width: 100px;
+    width: 200px;
     height: 200px;
     border: 5px solid;
     float: right;
