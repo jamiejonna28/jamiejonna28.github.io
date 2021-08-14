@@ -8,10 +8,10 @@ Hi, and welcome to my GitHub Page.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<center><h3>Test 1</h3></center>
+<center><h2>Test 1</h2></center>
 <div class = "test">
   <div class = "testin"></div>
-  <h2 class = "title"> Title 1</h2>
+  <h3 class = "title"> Title 1</h3>
 </div>
 
 <style>
@@ -21,7 +21,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     height: 150px;
     box-shadow: 0px 0px 10px #A9A9A9;
     float: right;
-    padding: 10px;
   }
   .testin
   {
