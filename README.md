@@ -35,6 +35,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     margin-top: 50px;
     margin-left: 30px;
   }
+  .textdiv
+  {
+    margin-top: 50px;
+  }
   .title
   {
     color: #159957;
