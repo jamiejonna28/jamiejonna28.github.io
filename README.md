@@ -38,6 +38,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     background-color: red;
     float: left;
     width: 100px;
+    padding: 20px;
+    width: 100%;
   }
   .title
   {
