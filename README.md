@@ -26,7 +26,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </div>
 
 <center><h2> Test 2</h2></center>
-
+<center>
+  <div class = "kdiv">A</div>
+  <div class = "kdiv"> ABC</div>
+  <div class = "kdiv"> ABCDEF</div>
+  <div class = "kdiv>ABCD</div>
+</center>
 <style>
   .ediv
   {
@@ -36,6 +41,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     float: right;
     margin-bottom: 30px;
   }
+               
+  .kdiv
+  {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    box-shadow: 0px 0px 10px #A9A9A9;
+    float: right;
+    margin-bottom: 30px;     
+  }
+                
   .pic
   {
     width: 200px;
