@@ -9,7 +9,7 @@ Hi, and welcome to my GitHub Page.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <center><h2>Test 1</h2></center>
-<div class = "test">
+<div class = "ediv">
   <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" class = "pic">
   <div class = "textdiv">
     <h2 class = "title"> Title 1</h2>
@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </div>
 </div>
 
-<div class = "test">
+<div class = "ediv">
   <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" class = "pic2">
   <div class = "textdiv">
     <h2 class = "title"> Title 1</h2>
@@ -25,8 +25,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </div>
 </div>
 
+<center><h2> Test 2</h2></center>
+
 <style>
-  .test
+  .ediv
   {
     width: 100%;
     height: 200px;
