@@ -48,11 +48,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   .kdiv
   {
     width: 100px;
-    height: 100px;
+    height: 50px;
     background-color: red;
     box-shadow: 0px 0px 10px #A9A9A9;
     margin-bottom: 30px;
     margin-right: 40px;
+    padding: 30px;
   }
                 
   .pic
