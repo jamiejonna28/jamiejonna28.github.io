@@ -57,7 +57,7 @@ Sample Text goes here....
   </div>
 </div>
 
-<br/>
+<p></p>
 
 <div id = "wrapper">
   <div class = "box2">
