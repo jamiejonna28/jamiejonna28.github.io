@@ -40,7 +40,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Sample Text goes here....
 <br/><br/>
 <div id = "wrapper">
-  <div class = "box2"></div>
+  <div class = "box2">
+    <h2>Title goes here</h2>
+  </div>
   <div class = "box2"></div>
 </div>
 
@@ -52,7 +54,7 @@ Sample Text goes here....
 </div>
 
 <center><h2> Test 4</h2></center>
-Reach me hereE: 
+Reach me here: 
 
 <style>
   .ediv
