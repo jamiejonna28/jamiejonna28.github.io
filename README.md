@@ -97,7 +97,7 @@ Reach me here:
  
  .box
  {
-   width: 100px;
+   width: 120px;
    height: 50px;
    display: inline-block;
    box-shadow: 0px 0px 10px #A9A9A9;
