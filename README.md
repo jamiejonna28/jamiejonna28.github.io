@@ -149,7 +149,8 @@ Reach me here:
    height: 250px;
    display: inline-block;
    box-shadow: 0px 0px 10px #A9A9A9;
-   margin: 50px;
+   margin-left: 50px;
+   margin-top: 20px;
    border-radius: 10px;
    padding: 10px;
  }
