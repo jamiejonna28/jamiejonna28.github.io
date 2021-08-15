@@ -38,7 +38,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <center><h2> Test 3</h2></center>
 Sample Text goes here....
-<br/>
+<br/><br/>
 <div id = "wrapper">
   <div class = "box2"></div>
   <div class = "box2"></div>
