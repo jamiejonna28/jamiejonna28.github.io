@@ -26,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </div>
 
 <center><h2> Test 2</h2></center>
-<br/>
+<p></p>
 <div id = "wrapper">
   <div id = "one" class = "box">a</div>
   <div id = "two" class = "box">abc</div>
