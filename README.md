@@ -34,9 +34,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <div id = "four" class = "box">abcd</div>
   <div id = "five" class = "box">abcdef</div>
 </div>
-
-<br/>
-
+<p></p>
 <center><h2> Test 3</h2></center>
 Sample Text goes here....
 <br/><br/>
