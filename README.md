@@ -75,8 +75,7 @@ Sample Text goes here....
   </div>
 </div>
 
-<br/><br/>
-
+<br/>
 <center><h2> Test 4</h2></center>
 Reach me here: 
 
