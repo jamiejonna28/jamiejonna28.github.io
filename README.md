@@ -27,11 +27,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <center><h2> Test 2</h2></center>
 <div id = "wrapper">
-  <div id = "one" class = "box"></div>
-  <div id = "two" class = "box"></div>
-  <div id = "three" class = "box"></div>
-  <div id = "four" class = "box"></div>
-  <div id = "five" class = "box"></div>
+  <div id = "one" class = "box">a</div>
+  <div id = "two" class = "box">abc</div>
+  <div id = "three" class = "box">abcde</div>
+  <div id = "four" class = "box">abcd</div>
+  <div id = "five" class = "box">abcdef</div>
 </div>
 
 <br/>
