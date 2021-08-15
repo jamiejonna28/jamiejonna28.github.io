@@ -42,6 +42,8 @@ Sample Text goes here....
 <div id = "wrapper">
   <div class = "box2">
     <h2>Title goes here</h2>
+    <p></p>
+    <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" width = "100px" height = "100px">
   </div>
   <div class = "box2"></div>
 </div>
