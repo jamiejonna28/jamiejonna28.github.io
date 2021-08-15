@@ -153,4 +153,9 @@ Reach me here:
    border-radius: 10px;
    padding: 10px;
  }
+  
+ .box2:hover
+ {
+   box-shadow: 0px 0px 10px black;
+ }
 </style>
