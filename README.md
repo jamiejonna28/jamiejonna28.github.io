@@ -103,5 +103,6 @@ Reach me here:
    box-shadow: 0px 0px 10px #A9A9A9;
    margin-left: 20px;
    border-radius: 10px;
+   padding: 10px;
  }
 </style>
