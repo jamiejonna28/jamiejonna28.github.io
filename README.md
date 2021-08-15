@@ -101,5 +101,7 @@ Reach me here:
    height: 50px;
    display: inline-block;
    box-shadow: 0px 0px 10px #A9A9A9;
+   margin-left: 20px;
+   border-radius: 10px;
  }
 </style>
