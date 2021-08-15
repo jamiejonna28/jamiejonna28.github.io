@@ -47,7 +47,13 @@ Sample Text goes here....
     <p></p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   </div>
-  <div class = "box2"></div>
+  <div class = "box2">
+    <h2>Title goes here</h2>
+    <p></p>
+    <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" width = "100px" height = "100px">
+    <p></p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </div>
 </div>
 
 <br/>
