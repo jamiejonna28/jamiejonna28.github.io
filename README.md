@@ -52,7 +52,7 @@ Sample Text goes here....
     <p></p>
     <img src = "https://raw.githubusercontent.com/jamiejonna28/jamiejonna28.github.io/main/hi.jpg" width = "100px" height = "100px">
     <p></p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet.
   </div>
 </div>
 
