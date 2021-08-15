@@ -26,12 +26,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </div>
 
 <center><h2> Test 2</h2></center>
-<center>
-  <div class = "kdiv">A</div>
-  <div class = "kdiv"> ABC</div>
-  <div class = "kdiv"> ABCDEF</div>
-  <div class = "kdiv">ABCD</div>
-</center>
+<div id = "wrapper">
+  <div id = "one" class = "box"></div>
+  <div id = "two" class = "box"></div>
+  <div id = "three" class = "box"></div>
+  <div id = "four" class = "box"></div>
+  <div id = "five" class = "box"></div>
+</div>
 
 <br/>
 
@@ -51,17 +52,7 @@ Reach me here:
     margin-bottom: 30px;
   }
                
-  .kdiv
-  {
-    width: 200px;
-    height: 50px;
-    box-shadow: 0px 0px 10px #A9A9A9;
-    margin-bottom: 30px;
-    margin-right: 40px;
-    padding: 10px;
-  }
-                
-  .pic
+ .pic
   {
     width: 200px;
     height: 200px;
@@ -71,27 +62,44 @@ Reach me here:
   }
   
  .pic2
- {
+  {
     width: 200px;
     height: 200px;
     border: 5px solid;
     float: right;
     margin: 50px 0px;
+  }
+  
+ .textdiv
+ {
+   background-color: white;
+   float: left;
+   width: 300px;
+   padding: 20px;
+   height: 200px;
  }
-  .textdiv
-  {
-    background-color: white;
-    float: left;
-    width: 300px;
-    padding: 20px;
-    height: 200px;
-  }
-  .title
-  {
-    color: #159957;
-  }
-  .subtitle
-  {
-    color: #606c83;
-  }
+  
+ .title
+ {
+   color: #159957;
+ }
+  
+ .subtitle
+ {
+   color: #606c83;
+ }
+  
+ #wrapper
+ {
+   margin: 0 auto;
+   text-align: center;
+ }
+ 
+ .box
+ {
+   width: 100px;
+   height: 50px;
+   display: inline-block;
+   box-shadow: 0px 0px 10px #A9A9A9;
+ }
 </style>
